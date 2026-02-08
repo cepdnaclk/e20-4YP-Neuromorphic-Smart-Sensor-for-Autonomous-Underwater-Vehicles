@@ -1,4 +1,4 @@
-{
+{ "title": "Neuromorphic Smart Sensor For Autonomous Underwater Vehicles",
     "team": [
         {
             "name": "Bandara K.G.R.I.",
@@ -20,7 +20,7 @@
         {
             "name": "Prof. Kamalanath Samarakoon",
             "email": "kamalanath@eng.pdn.ac.lk"
-        }}
+        }
     ],
     "media": [
         {
