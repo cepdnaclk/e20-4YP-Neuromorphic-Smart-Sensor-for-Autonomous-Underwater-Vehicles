@@ -1,5 +1,5 @@
-{ "title": "Neuromorphic Smart Sensor For Autonomous Underwater Vehicles",
-    
+{
+    "title": "Neuromorphic Smart Sensor For Autonomous Underwater Vehicles",
     "team": [
         {
             "name": "Bandara K.G.R.I.",
@@ -23,5 +23,5 @@
             "email": "kamalanath@eng.pdn.ac.lk"
         }
     ],
-    "tags": ["Final Year Projects","Research"]
+    "tags": ["Final Year Projects", "Research"]
 }
