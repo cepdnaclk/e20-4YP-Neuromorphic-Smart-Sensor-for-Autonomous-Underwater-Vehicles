@@ -23,5 +23,7 @@
             "email": "kamalanath@eng.pdn.ac.lk"
         }
     ],
-    "tags": ["Final Year Projects", "Research"]
+    "tags": ["Final Year Projects", "Research","AI","Neuromorphic"],
+    "image":"cover_page.jpg",
+    "thumbnail":"thumbnail.jpg"
 }
